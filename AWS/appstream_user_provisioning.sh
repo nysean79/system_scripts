@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+##### Created: November 30 2023 #########################################################################################################
+# Author: Sean Ryan 
+# Version: 1.0.1
+# This AWS AppsStream script creates local user accounts, assigns the users an image/stack, and user pool.
+##########################################################################################################################################
+
 ## These sets of commands below are working examples used to administrate AWS Appstream services
 
 ## Create Local AWS App Stream Accounts
