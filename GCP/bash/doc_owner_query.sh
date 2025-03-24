@@ -9,7 +9,7 @@
 # load list of Google Document IDS: 
 DOCID_LIST=( $(cat doc-list.txt) )
 
-# For every line which has a document ID listed within doc-list.txt, run the command below inserting the docuemnt ID on the end
+# For every line which has a document ID listed within doc-list.txt, run the command below inserting the document ID on the end
 # of each command
 for DOCID in "${DOCID_LIST[@]}" 
 
